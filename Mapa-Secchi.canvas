@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"15c5b410c86d78ee","type":"text","text":"Causas para ==modernização administrativa==: crise fiscal, aumento da competição por investimentos e mão de obra, novos conhecimentos organizacionais e de tecnologia, ascensão de valores pluralistas e liberais e crescente complexidade da dinâmica e diversidade social.","x":-3419,"y":-1000,"width":359,"height":240},
+		{"id":"1369f2de4521217c","type":"text","text":"Neoliberal:\n- Defende a descentralização dentro do modelo gerencialista\n- Objetivo de redução do tamanho do estado","x":-2926,"y":-934,"width":286,"height":234},
+		{"id":"9d85003044924879","type":"text","text":"Propostas surgidas nos anos 90","x":-2801,"y":-1080,"width":250,"height":60},
+		{"id":"df20240745c4038f","type":"text","text":"Progressista\n- Superação de desigualdades sociais","x":-2580,"y":-934,"width":220,"height":194},
+		{"id":"2effe4b355759bcc","type":"text","text":"==Gerencialismo==\n- Valores de produtividade\n- descentralização\n- Eficiência em prestação de serviços\n- Competição entre prestadores de serviços públicos\n- Accountability\n- **Controle**: há controle dos políticos sobre a máquina administrativa\n- Mecanismos de distinção entre esfera públicas e privadas são suavizados\n- Cidadão: Cliente que deve ser satisfeito","x":-3439,"y":-508,"width":319,"height":528},
+		{"id":"a619145b3608a3ef","type":"text","text":"==Governança pública==\n\n- Para o senso comum: conjunto de práticas democráticas e de gestão que propiciam o desenvolvimento econômico\n- Para o FMI: boas práticas que configuram accountability\n- \"Estado torna-se uma coleção de redes interorganizacionais compostas por atores governamentais e sociais sem nenhuma ator soberano capaz de guiar e regular\" (Roddes, 1997, _apud_ Secchi, p. 360\n- **Controle**: envolvimento de atores não estatais\n- Diferentemente dos outros 2 modelos, não faz distinção entre política e administração\n- Mecanismos de distinção entre esfera públicas e privadas são suavizados\n- Cidadão: _Stakeholder_","x":-3042,"y":-518,"width":402,"height":638},
+		{"id":"41fdb7842fe8716d","type":"text","text":"Plataformas organizacionais da governança pública:\n1. Envolvimento dos cidadãos na construção de políticas públicas\n2. Redes de políticas públicas abertas, independentes, horizontais\n3. Parcerias público-privadas","x":-2500,"y":0,"width":298,"height":315},
+		{"id":"e8ed0c188aa371a6","type":"text","text":"==Modelo burocrático==:\n- Fundamento: a fonte do poder nas organizações é a racionalidade-legal\n- Formalidade, impessoalidade profissionalismo, separação público-privada, separação entre formulação e implementação, eficiência econômica, equidade (tratamento igualitário), desconfiança em relação à natureza humana; \n- É criticado por ser inadequado, moroso, autorreferenciado e descolado das necessidades dos cidadãos.\n- Alternativas apresentadas: administração pública gerencial, governo empreendedor, governança pública\n- **Controle**: formalidade e impessoalidade\n- Diferentemente dos outros 2 modelos, evita a discricionariedade\n- Diferentemente dos outros 2 modelos, esferas públicas e privadas são separadas para evitar a corrupção e o patrimonialismo\n- Cidadão: usuário do serviço público","x":-3960,"y":-640,"width":460,"height":640}
+	],
+	"edges":[
+		{"id":"603cba3e785332da","fromNode":"9d85003044924879","fromSide":"bottom","toNode":"1369f2de4521217c","toSide":"top"},
+		{"id":"6ace0cfbeb2418e2","fromNode":"9d85003044924879","fromSide":"bottom","toNode":"df20240745c4038f","toSide":"top"},
+		{"id":"53c7496a6d9e9b20","fromNode":"15c5b410c86d78ee","fromSide":"top","toNode":"9d85003044924879","toSide":"top"},
+		{"id":"5f34f6556749fd28","fromNode":"15c5b410c86d78ee","fromSide":"bottom","toNode":"2effe4b355759bcc","toSide":"top"},
+		{"id":"f23b9489f9a2eb53","fromNode":"15c5b410c86d78ee","fromSide":"bottom","toNode":"a619145b3608a3ef","toSide":"top"},
+		{"id":"431304988e6402d4","fromNode":"15c5b410c86d78ee","fromSide":"bottom","toNode":"e8ed0c188aa371a6","toSide":"top"},
+		{"id":"f9b16588386e6366","fromNode":"a619145b3608a3ef","fromSide":"right","toNode":"41fdb7842fe8716d","toSide":"top"}
+	]
+}
